@@ -1,0 +1,6 @@
+# requirements.txt
+python-telegram-bot
+requests
+python-dotenv
+pillow
+pyzbar
